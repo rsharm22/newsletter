@@ -1,0 +1,11 @@
+export KEYWORDS=none
+export NEWS_API_EMAIL=REMOVED
+export NEWS_API_PASSWORD=REMOVED
+export NEWS_API_KEY=REMOVED
+export SOURCES=none
+export SCHEDULE=d
+export EMAIL_LIST=REMOVED
+export FIRST_NAME=none
+export LAST_NAME=none
+export OPTION=g
+
