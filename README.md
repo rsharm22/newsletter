@@ -10,3 +10,5 @@ File Details:
   4. newsletter.py - defines the NewsLetter class used to pull article details based on user preferences and send out the newsletter
   5. send.py - contains the function to select the correct newsletter format based on user input
   6. sqs.py - pulls in user data from AWS SQS and sends out email
+
+**Status:** This is an ongoing project, and I am currently working to create a front-end. All functionality is working.
