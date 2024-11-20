@@ -1,5 +1,5 @@
 # This script contains the functions to generate the AI summary from the article details taking into account missing
-# indices, and varying search options.
+# indices and varying search options.
 
 from transformers import BartForConditionalGeneration, BartTokenizer
 from credentials import categories
