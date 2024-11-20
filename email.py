@@ -1,4 +1,4 @@
-# This script contains the 'generate_email' function which creates the HTML email body based on the type of search
+# This script contains the 'generate_email' function which creates the email body based on the type of search
 # requested, and the 'send_email' function to send the content to users.
 
 from credentials import categories
