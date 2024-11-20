@@ -1,4 +1,5 @@
 # This file contains the code to run through the SQS AWS data and send emails to users
+
 import boto3
 import json
 import logging
