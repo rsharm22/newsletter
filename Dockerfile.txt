@@ -5,7 +5,6 @@ ADD emailhtml.py .
 ADD credentials.py .
 ADD newsletter.py .
 ADD abstractivesummary.py .
-ADD nonrandominput.py .
 ADD input.py .
 ADD sqs.py .
 ADD sqsinput.py .
