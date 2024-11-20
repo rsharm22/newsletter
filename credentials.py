@@ -1,4 +1,4 @@
-# This file contains the private sender credentials, News API key, and email list.
+# This file contains the sender credentials, News API key, and email list.
 
 import os
 
